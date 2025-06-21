@@ -113,7 +113,6 @@ Order history, product ratings, and admin dashboard features
 License
 This project is developed for academic and demonstration purposes during my internship at ABB.
 
-Let me know if you want to include screenshots or sample .env or appsettings.json configuration examples.
 
 
 
